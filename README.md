@@ -47,3 +47,7 @@ representativa da band com a legenda.
 
  ## Licença
  Este projeto está licenciado sob a licença MIT .
+
+ ### Acesso
+
+ Para acessar o site visite: https://11-09-offspring-6nh3s4xuw-itzeric13s-projects.vercel.app/
